@@ -1,0 +1,12 @@
+Get Started
+===============
+
+In this section, work need to be done before using Deepflame is demonstrated.
+
+.. toctree::
+   :maxdepth: 1
+   :numbered:
+
+   openfoam
+   wsl
+   

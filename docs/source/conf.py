@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Testing'
+project = 'Deepflame'
 copyright = '2022, JiayangXU'
 author = 'JiayangXU'
 release = '0.1'

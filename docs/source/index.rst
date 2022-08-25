@@ -3,26 +3,76 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Testing's documentation!
-===================================
+==========================
+Welcome to Deepflame's documentation
+==========================
+
+short intro
+
+.. Note:: This project is under active development
+
+.. _Overview:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Overview
-
+   
    overview
 
-
+.. _User_Guide:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
+   :numbered:
    :caption: User Guide
+   :glob:
 
    get_started/index
    installation/index
-   solver/index
+   solvers/index
    examples/index
    faqs/index
 
 
+.. _developer-guide:
+
+.. toctree::
+   :maxdepth: 5
+   :numbered:
+   :caption: Developer Guide
+   :glob:
+
+   developer/index
+
+ 
+.. _reference:
+.. toctree::
+   :maxdepth: 5
+   :caption: Reference
+   :glob:
+
+   reference
+
+
+
+.. _project-details:
+
+.. toctree::
+   :maxdepth: 3
+   :numbered:
+   :caption: Project Details
+
+   license
+   credits
+   communication
+
+
+.. _Miscellaneous:
+
+.. toctree::
+   :maxdepth: 3
+   :numbered:
+   :caption: Miscellaneous
+
+   links
 
