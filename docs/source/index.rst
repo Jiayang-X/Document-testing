@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 ==========================
-Welcome to Deepflame's documentation
+Welcome to Deepflame's Documentation
 ==========================
 
 short intro
