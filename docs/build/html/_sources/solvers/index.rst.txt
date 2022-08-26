@@ -7,6 +7,11 @@ In this section, work need to be done before using Deepflame is demonstrated.
    :maxdepth: 1
    :numbered:
 
-   openfoam
-   wsl
+
+   df0DFoam
+   dfLowMachFoam
+   dfHighSpeedFoam
+   dfSprayFoam
+
+   
    
