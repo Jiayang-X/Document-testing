@@ -31,6 +31,7 @@ short intro
    installation/index
    solvers/index
    examples/index
+   Troubleshooting/index
    faqs/index
 
 
